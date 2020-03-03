@@ -4,7 +4,7 @@ public class Test1 {
     @Test
     public void test1(){
         /**
-         * 递归算法 用取模的方式
+         * 递归算法 用取模的方式1
          */
         int a = 762348889;
         Long startTime = System.currentTimeMillis();
